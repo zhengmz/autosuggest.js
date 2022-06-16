@@ -1,5 +1,4 @@
-autosuggest.js
----
+## autosuggest.js
 
 #### **适用于Bootstrap的Ajax输入建议控件([Demo](https://example.codeboy.me/autosuggest/index.html))**
 
@@ -195,6 +194,12 @@ autosuggest.js
 
 ## 更新日志
 
+#### v1.0.5
+
+- 增加 package.json, 并发布到 npmjs
+- 支持 menuClassStyle
+- 支持 selectAdd
+- 支持 dbClick
 
 #### v1.0.4
 
