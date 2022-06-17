@@ -16,7 +16,7 @@
   "license": "MIT",
   "scripts": {
     "build:js": "npx uglifyjs autosuggest.js --compress --mangle --ie -o autosuggest.min.js",
-    "build:css": "npx cleancss -o autosuggest.min.css autosuggest.css",
+    "build:css": "npx cleancss --compatibility ie8 -o autosuggest.min.css autosuggest.css",
     "build": "npm run build:js && npm run build:css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
