@@ -1,12 +1,14 @@
 {
   "name": "jquery-autosuggest",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "AJAX auto-suggest for Bootstrap 3",
   "main": "autosuggest.js",
-  "maintainers": [
+  "author": {"name": "木小桓","email": "app@codeboy.me", "url": "https://www.codeboy.me"},
+  "contributors": [
     {
       "name": "androiddevelop",
-      "email": "app@codeboy.me"
+      "email": "app@codeboy.me",
+      "url": "https://www.codeboy.me"
     },
     {
       "name": "zhengmz",

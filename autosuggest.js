@@ -3,7 +3,7 @@
  * @projectDescription AJAX auto-suggest for Bootstrap 3
  * @author  | https://github.com/androiddevelop/autosuggest.js
  * @url  | https://github.com/zhengmz/jquery-autosuggest
- * @version 1.0.5
+ * @version 1.1.0
  * @license Apache License
  *
  */

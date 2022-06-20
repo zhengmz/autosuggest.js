@@ -194,7 +194,7 @@
 
 ## 更新日志
 
-#### v1.0.5
+#### v1.1.0
 
 - 增加 package.json, 并发布到 npmjs
 - 支持 menuClassStyle
